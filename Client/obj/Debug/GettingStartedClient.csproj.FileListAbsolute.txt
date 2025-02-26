@@ -1,7 +1,0 @@
-D:\AndreaSchool\DP\GettingStartedTutorial\GettingStartedClient\bin\Debug\GettingStartedClient.exe.config
-D:\AndreaSchool\DP\GettingStartedTutorial\GettingStartedClient\bin\Debug\GettingStartedClient.exe
-D:\AndreaSchool\DP\GettingStartedTutorial\GettingStartedClient\bin\Debug\GettingStartedClient.pdb
-D:\AndreaSchool\DP\GettingStartedTutorial\GettingStartedClient\obj\Debug\GettingStartedClient.csproj.AssemblyReference.cache
-D:\AndreaSchool\DP\GettingStartedTutorial\GettingStartedClient\obj\Debug\GettingStartedClient.csproj.CoreCompileInputs.cache
-D:\AndreaSchool\DP\GettingStartedTutorial\GettingStartedClient\obj\Debug\GettingStartedClient.exe
-D:\AndreaSchool\DP\GettingStartedTutorial\GettingStartedClient\obj\Debug\GettingStartedClient.pdb
