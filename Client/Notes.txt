@@ -1,0 +1,2 @@
+When setting up the reference, apart from referencing the other projects. 
+Also set up the referetnce to the assembly: Systems.ServiceModel for the other projects
