@@ -1,7 +1,0 @@
-D:\AndreaSchool\DP\GettingStartedTutorial\GettingStartedLib\bin\Debug\GettingStartedLib.dll.config
-D:\AndreaSchool\DP\GettingStartedTutorial\GettingStartedLib\bin\Debug\GettingStartedLib.dll
-D:\AndreaSchool\DP\GettingStartedTutorial\GettingStartedLib\bin\Debug\GettingStartedLib.pdb
-D:\AndreaSchool\DP\GettingStartedTutorial\GettingStartedLib\obj\Debug\Library.csproj.AssemblyReference.cache
-D:\AndreaSchool\DP\GettingStartedTutorial\GettingStartedLib\obj\Debug\Library.csproj.CoreCompileInputs.cache
-D:\AndreaSchool\DP\GettingStartedTutorial\GettingStartedLib\obj\Debug\GettingStartedLib.dll
-D:\AndreaSchool\DP\GettingStartedTutorial\GettingStartedLib\obj\Debug\GettingStartedLib.pdb
