@@ -1,0 +1,2 @@
+D:\AndreaSchool\DP\WCFAndEFService\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+D:\AndreaSchool\DP\WCFAndEFService\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache

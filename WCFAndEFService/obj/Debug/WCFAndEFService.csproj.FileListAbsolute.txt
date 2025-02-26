@@ -1,0 +1,12 @@
+D:\AndreaSchool\DP\WCFAndEFService\WCFAndEFService\bin\Debug\WCFAndEFService.dll.config
+D:\AndreaSchool\DP\WCFAndEFService\WCFAndEFService\bin\Debug\WCFAndEFService.dll
+D:\AndreaSchool\DP\WCFAndEFService\WCFAndEFService\bin\Debug\WCFAndEFService.pdb
+D:\AndreaSchool\DP\WCFAndEFService\WCFAndEFService\obj\Debug\WCFAndEFService.csproj.AssemblyReference.cache
+D:\AndreaSchool\DP\WCFAndEFService\WCFAndEFService\obj\Debug\WCFAndEFService.csproj.CoreCompileInputs.cache
+D:\AndreaSchool\DP\WCFAndEFService\WCFAndEFService\obj\Debug\WCFAndEFService.dll
+D:\AndreaSchool\DP\WCFAndEFService\WCFAndEFService\obj\Debug\WCFAndEFService.pdb
+D:\AndreaSchool\DP\WCFAndEFService\WCFAndEFService\bin\Debug\EntityFramework.dll
+D:\AndreaSchool\DP\WCFAndEFService\WCFAndEFService\bin\Debug\EntityFramework.SqlServer.dll
+D:\AndreaSchool\DP\WCFAndEFService\WCFAndEFService\bin\Debug\EntityFramework.xml
+D:\AndreaSchool\DP\WCFAndEFService\WCFAndEFService\bin\Debug\EntityFramework.SqlServer.xml
+D:\AndreaSchool\DP\WCFAndEFService\WCFAndEFService\obj\Debug\WCFAndEF.DF0C5475.Up2Date

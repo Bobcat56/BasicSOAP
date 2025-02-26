@@ -1,0 +1,7 @@
+D:\AndreaSchool\DP\WCFAndEFService\Client\bin\Debug\Client.exe.config
+D:\AndreaSchool\DP\WCFAndEFService\Client\bin\Debug\Client.exe
+D:\AndreaSchool\DP\WCFAndEFService\Client\bin\Debug\Client.pdb
+D:\AndreaSchool\DP\WCFAndEFService\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\AndreaSchool\DP\WCFAndEFService\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\AndreaSchool\DP\WCFAndEFService\Client\obj\Debug\Client.exe
+D:\AndreaSchool\DP\WCFAndEFService\Client\obj\Debug\Client.pdb
